@@ -9,9 +9,8 @@ ping 127.0.0.1 -n 2 > NUL
 start YTBVIEWER.exe
 ping 127.0.0.1 -n 5 > NUL
 ---------
-timeout /t 14900 > null
-// thời gian tắt tool tính bằng s
+timeout /t 1200 >null
 taskkill /f /im YTBClient.exe >nul
 taskkill /f /im YTBVIEWER.exe >nul
 
-goto loop
+goto loop 
