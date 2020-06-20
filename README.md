@@ -12,5 +12,7 @@ Tải file start.bat: https://www.fshare.vn/file/Z5GJ3J619ZV7 <br><br>
 -------auto.bat------<br>
 Chép file auto.bat đã tải vào thư mục YTBview
 <br>Edit lại số 1200 thành 14800<br>
-Chạy với quyền Administrator.
+Chạy với quyền Administrator.<br>
+Tải file auto.bat: https://www.fshare.vn/file/QTMG1LKU8BO6
+
 
